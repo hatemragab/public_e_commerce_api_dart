@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cf05137-5b41-4525-9d01-939c44d975f5" name="Default Changelist" comment="" />
+    <list default="true" id="3cf05137-5b41-4525-9d01-939c44d975f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qlDaxiS4JOOCHh9GcNACY9xjmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +65,7 @@
       <workItem from="1617730761788" duration="397000" />
       <workItem from="1617731164915" duration="75000" />
       <workItem from="1617731417495" duration="56000" />
-      <workItem from="1617731480278" duration="792000" />
+      <workItem from="1617731480278" duration="3947000" />
     </task>
     <servers />
   </component>
@@ -70,6 +81,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617656589899" />
+    <state x="789" y="418" key="Github.ShareDialog" timestamp="1617732388214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617732388214" />
+    <state x="709" y="225" key="Github.UntrackedFilesDialog" timestamp="1617732395273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617732395273" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1617653039791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
