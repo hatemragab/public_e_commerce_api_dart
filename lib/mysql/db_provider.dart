@@ -2,7 +2,6 @@ import 'package:mysql1/mysql1.dart';
 
 import 'tables/user_table.dart';
 
-
 class DBProvider {
   DBProvider._();
 
@@ -19,12 +18,7 @@ class DBProvider {
   }
 
   Future<MySqlConnection> _open() async {
-    var settings = ConnectionSettings(
-        host: 'localhost',
-        port: 3306,
-        user: 'root',
-        password: null,
-        db: 'public_ecommerce_api');
+    var settings = ConnectionSettings(host: 'localhost', port: 3306, user: 'root', password: null, db: 'public_ecommerce_api');
     final conn = await MySqlConnection.connect(settings);
     try {
       await UserTable.createTable(conn);

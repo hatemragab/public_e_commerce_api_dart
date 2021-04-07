@@ -3,7 +3,7 @@ include: package:effective_dart/analysis_options.yaml
 linter:
   rules:
     public_member_api_docs: false
-    omit_local_variable_types : false
+    omit_local_variable_types: false
     constant_identifier_names: false
     avoid_classes_with_only_static_members: false
     lines_longer_than_80_chars: false
