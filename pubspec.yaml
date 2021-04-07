@@ -14,7 +14,6 @@ dependencies:
   mysql1: ^0.19.0
   dart_jsonwebtoken: ^2.0.1
   crypt: ^4.0.1
-  alfred: ^0.0.3+2
 
   palace:
     git:
