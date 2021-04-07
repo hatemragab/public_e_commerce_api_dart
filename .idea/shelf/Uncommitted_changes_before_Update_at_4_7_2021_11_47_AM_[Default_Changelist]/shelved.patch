@@ -1,0 +1,131 @@
+Index: s/publice_api_ecommerce.pem
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- s/publice_api_ecommerce.pem	(revision 77da361924eb87ede9dc348b5b7ddb58e85e092c)
++++ s/publice_api_ecommerce.pem	(revision 77da361924eb87ede9dc348b5b7ddb58e85e092c)
+@@ -1,27 +0,0 @@
+------BEGIN RSA PRIVATE KEY-----
+-MIIEpAIBAAKCAQEAsppWbCcG6eWiDvQwwiI+Vlg3VuzqqIYEsE3iX4uSzbbu6RBt
+-f+jY1/sJIW82TW1E5q2jU7bLusIRpvl+XG0yTwuLi0o4/GKLSNy1F/U1PfV/h8EK
+-jb562DWQPlcuknGeYVrAFg3/bfw1JTqEM40CxZH5yLxWwR2uTN4mnEKhQJMJ3Irm
+-rnmxzqcTs21oE0F3YCyrvkMyZmXpvBU33eL2kM8tMh3yoZA/dQtqUrhv9MypZJHE
+-ezXzkkc1UZnTzCP5PIpEz222Uzf9+ZBViYNaG4VStGTo4AMYJ7Vou7r4YHIYG+KX
+-GecQVb00Czj3gBAuOfVibZo/kfldGNKZXf7zxwIDAQABAoIBAFLIBlaKoEG5Fawo
+-spDInmwW50968Ci8NWAiOVJftuNybrnHy3kFy7wPtuOwUFMC2nSw9orOpw8g9F2Y
+-NmFQm4jXqQ4ekNsqMbTL14QLO2pEZ5/cca/RIc8kxH6gmg12bBpjnbSbOFEaHOfs
+-f2oFact5JXVNFkjcIPWv4eV7XJI4zmjP8Fccm5GzxA37QLazZXomw8LiSerKnNte
+-DxaK3+yBJy/238+SNqDv2jRsJmKvYUUk43PILpeRdh4E/TcZYwrqFsKUis0kODiy
+-K/NP/Hs2Q55RaDCat3uFVpQgFHqFDbbj+tHM/ZbR9xvaJo+EjqwBYpM4RA7qNnNB
+-b3SrpsECgYEA32H4UQSVp6nGnboXEhKWrhk5wimbv1nZmzaCBoOntjetQ/nlp3Fa
+-P0nF69uQ04vNaD+zTd3//U1n9AtyIOFSg5cLx4EuahgI4080NqL2/D5JP1nMA820
+-PlLEcc+5gcWJQ/ONQln/uwF5AEFC1QTT8jjyqT7bTnEpi4JlP1FCyB0CgYEAzK6A
+-TbuUuqsNLie6q5yUKi7Gs4/iM1wzyPn80mJONbNmpmU022qUvkWC436VwRjrQ6r8
+-dgBswXrgWm07w2au/TH1IzDkGS3GfOzAABwuyYJ2RTURhlO/+9PBJRfolGIx6W33
+-Mi5XhzBm394K4VaIGVgvtKBlEy7ZnfbGDkiljjMCgYACNyyJUSxSz2JC6jeUXE7W
+-RzXFcTg0O6Xm3jGH8wJU0lSLmgznDj7A5fBqmHDlSDuvTwJuQUdqsbvYNczZ+qIg
+-3/yj6+oT700XRA/WguNEOTHsyO03FHE3NQbxwgeq+9SSsfWytMXOiwMyN3N8PWIE
+-wv/VIeR28LRix9ZNPHcXGQKBgQCsapp94HOqwwg5RxJCGYXd+sU64QtkxFiDBcJo
+-3pKPPe5MYJij9CYUGa3mQO2ZWYpk2BYOuNDkMsPmqHldYpQpiPm8iSS76Ql4ll4u
+-OY9YA+Po7Ik0pDvmwDvFKVysEgOFZTKEPPFSWf1uuzZjF2dSIi0ddLdv71k1bXjs
+-81kybQKBgQCHkS7PWg1kI4g6DkAdYtCqEj7h6bkCMnxBIsleapEu1M2XyaWvEjM/
+-oCk0o64ZlKiFJ2cWRmaiPgRZk5k2sw36kU0iu4pNVJ2wIU1p5MHaXBhe22Kc33MX
+-eBHGrhj9xuwZldD3aH+k5akV1u303Sg+7QzwUInWk+Z0wgkFJ9dIZA==
+------END RSA PRIVATE KEY-----
+\ No newline at end of file
+Index: s/ec2-18-191-185-209.us-east-2.compute.amazonaws.com.rdp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- s/ec2-18-191-185-209.us-east-2.compute.amazonaws.com.rdp	(revision 77da361924eb87ede9dc348b5b7ddb58e85e092c)
++++ s/ec2-18-191-185-209.us-east-2.compute.amazonaws.com.rdp	(revision 77da361924eb87ede9dc348b5b7ddb58e85e092c)
+@@ -1,3 +0,0 @@
+-auto connect:i:1
+-full address:s:ec2-18-191-185-209.us-east-2.compute.amazonaws.com
+-username:s:Administrator
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3cf05137-5b41-4525-9d01-939c44d975f5\" name=\"Default Changelist\" comment=\"test 2\">\r\n      <change afterPath=\"$PROJECT_DIR$/lib/helpers/validation.dart\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lib/api/auth/auth_controller.dart\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lib/api/auth/auth_controller.dart\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/s/2.18.191.185.209.txt\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Dart File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1qlDaxiS4JOOCHh9GcNACY9xjmk\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"dart.analysis.tool.window.visible\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.pluginManager\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hatem\\PhpstormProjects\\untitled1\\lib\\api\\user\" />\r\n      <recent name=\"C:\\Users\\hatem\\PhpstormProjects\\untitled1\\lib\\helpers\" />\r\n      <recent name=\"C:\\Users\\hatem\\PhpstormProjects\\untitled1\\lib\\mysql\\tables\" />\r\n      <recent name=\"C:\\Users\\hatem\\PhpstormProjects\\untitled1\\lib\\api\\auth\\models\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3cf05137-5b41-4525-9d01-939c44d975f5\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1617645349662</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1617645349662</updated>\r\n      <workItem from=\"1617645351496\" duration=\"34420000\" />\r\n      <workItem from=\"1617730761788\" duration=\"397000\" />\r\n      <workItem from=\"1617731164915\" duration=\"75000\" />\r\n      <workItem from=\"1617731417495\" duration=\"56000\" />\r\n      <workItem from=\"1617731480278\" duration=\"4731000\" />\r\n      <workItem from=\"1617777294012\" duration=\"5408000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test 1\">\r\n      <created>1617738147759</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1617738147759</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"test 2\">\r\n      <created>1617777499544</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1617777499544</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test 1\" />\r\n    <MESSAGE value=\"test 2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test 2\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"414\" y=\"175\" width=\"1092\" height=\"714\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1617645414656\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"414\" y=\"175\" width=\"1092\" height=\"714\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617645414656\" />\r\n    <state x=\"765\" y=\"236\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1617656589899\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"765\" y=\"236\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617656589899\" />\r\n    <state x=\"789\" y=\"418\" key=\"Github.ShareDialog\" timestamp=\"1617732388214\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"789\" y=\"418\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617732388214\" />\r\n    <state x=\"709\" y=\"225\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1617732395273\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"709\" y=\"225\" key=\"Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617732395273\" />\r\n    <state x=\"461\" y=\"165\" key=\"SettingsEditor\" timestamp=\"1617653039791\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"461\" y=\"165\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617653039791\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1617777500604\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617777500604\" />\r\n    <state x=\"623\" y=\"225\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1617726549476\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"623\" y=\"225\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1617726549476\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 77da361924eb87ede9dc348b5b7ddb58e85e092c)
++++ .idea/workspace.xml	(date 1617788755189)
+@@ -22,11 +22,10 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3cf05137-5b41-4525-9d01-939c44d975f5" name="Default Changelist" comment="test 2">
+-      <change afterPath="$PROJECT_DIR$/lib/helpers/validation.dart" afterDir="false" />
++    <list default="true" id="3cf05137-5b41-4525-9d01-939c44d975f5" name="Default Changelist" comment="fix production server issues and validation message">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lib/api/auth/auth_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api/auth/auth_controller.dart" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/s/2.18.191.185.209.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/s/ec2-18-191-185-209.us-east-2.compute.amazonaws.com.rdp" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/s/publice_api_ecommerce.pem" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -82,7 +81,7 @@
+       <workItem from="1617731164915" duration="75000" />
+       <workItem from="1617731417495" duration="56000" />
+       <workItem from="1617731480278" duration="4731000" />
+-      <workItem from="1617777294012" duration="5408000" />
++      <workItem from="1617777294012" duration="6446000" />
+     </task>
+     <task id="LOCAL-00001" summary="test 1">
+       <created>1617738147759</created>
+@@ -98,7 +97,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1617777499544</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="fix production server issues and validation message">
++      <created>1617787894888</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1617787894888</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -118,7 +124,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test 1" />
+     <MESSAGE value="test 2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="test 2" />
++    <MESSAGE value="fix production server issues and validation message" />
++    <option name="LAST_COMMIT_MESSAGE" value="fix production server issues and validation message" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617645414656">
+@@ -129,6 +136,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617656589899" />
++    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617787758736">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617787758736" />
+     <state x="789" y="418" key="Github.ShareDialog" timestamp="1617732388214">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -141,10 +152,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617653039791" />
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617777500604">
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617787895919">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617777500604" />
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617787895919" />
+     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617726549476">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
