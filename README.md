@@ -3,7 +3,7 @@
 ## how to use
 
 ## Base URL
-http://2.18.191.185.209:3000/api/v1/
+http://18.191.185.209:3000/api/v1/
 
 ## 1. auth api 
 
@@ -14,7 +14,7 @@ method __post__ parameters
 2. email _string must be in email format_ and unique
 3. password _string_
 
->http://2.18.191.185.209:3000/api/v1/auth/register
+>http://18.191.185.209:3000/api/v1/auth/register
  ```
 {
     "success": true,
@@ -47,7 +47,7 @@ method __post__ parameters
 1. email _string must be in email format_
 2. password _string_
 
->http://2.18.191.185.209:3000/api/v1/auth/login
+>http://18.191.185.209:3000/api/v1/auth/login
  ```
 {
     "success": true,
@@ -91,7 +91,7 @@ method __get__ params
 1. /0    _int last user data if first request pass 0_
  
 
->http://2.18.191.185.209:3000/api/v1/user/all/0
+>http://18.191.185.209:3000/api/v1/user/all/0
 
 ---
 
@@ -128,7 +128,7 @@ method __get__ params
 ---
 
 if u send last item id in list suppose it will be 6 then the data will return after the last id u send limited to 20
->http://2.18.191.185.209:3000/api/v1/user/all/6
+>http://18.191.185.209:3000/api/v1/user/all/6
 ---
 ```
 {
