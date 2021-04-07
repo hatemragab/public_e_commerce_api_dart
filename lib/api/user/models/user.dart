@@ -1,6 +1,5 @@
 import 'package:public_e_commerce_api_dart/mysql/tables/user_table.dart';
 
-
 class User {
   late int id;
   late String name;
